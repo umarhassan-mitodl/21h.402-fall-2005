@@ -6,6 +6,8 @@ description: This syllabus provides details on information on required books, on
 file: /courses/21h-402-the-making-of-a-roman-emperor-fall-2005/ab738c409f917763eedc67a608d49e65_MIT21H_402f05_syllf05.pdf
 file_size: 60648
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
