@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: This section provides citations for required readings for the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -257,7 +255,7 @@ Inventing Augustus
 
 Zanker. pp. 78-100.
 
-Brunt, P. A., and J. M. Moore, eds.  [_Res Gestae Divi Augusti: The Achievements of the Divine Augustus_](http://classics.mit.edu/Augustus/deeds.html). New York, NY: Oxford University Press, 1969. ISBN: 9780198317722.
+Brunt, P. A., and J. M. Moore, eds.  {{% resource_link "2d31824c-7566-49b5-b823-592d486f58b1" "_Res Gestae Divi Augusti: The Achievements of the Divine Augustus_" %}}. New York, NY: Oxford University Press, 1969. ISBN: 9780198317722.
 
 
 {{< tdclose >}}
@@ -653,7 +651,7 @@ Viewing of _I, Claudius_ (1976)
 
 Joshel, Sandra. "_I Claudius_: Projection and Imperial Soap Opera." In _Imperial Projections: Ancient Rome in Modern Popular Culture_. Edited by Sandra Joshel, Margaret Malamud, and Donald McGuire. Baltimore, MD: Johns Hopkins University Press, 2001, pp. 119-61. ISBN: 9780801867422.
 
-[_I, Claudius_](http://www.imdb.com/title/tt0074006/). Robert Wise, 1976.
+{{% resource_link "09bedec3-82c1-4a73-b717-1a15b5ef65a2" "_I, Claudius_" %}}. Robert Wise, 1976.
 
 
 {{< tdclose >}}
